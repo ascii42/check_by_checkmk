@@ -317,8 +317,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Check_MK team for the excellent monitoring platform
-- Icinga/Nagios communities for plugin standards
+- Icinga communities
 - Contributors and testers
 
 ---
