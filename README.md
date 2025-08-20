@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Shell](https://img.shields.io/badge/shell-bash-green.svg)](https://www.gnu.org/software/bash/)
+[![Monitoring](https://img.shields.io/badge/Monitoring-Icinga%2FNagios-blue.svg)](https://icinga.com/)
 [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](CHANGELOG.md)
 
 A comprehensive Icinga/Nagios plugin that retrieves service status from Check_MK instances via REST API v2 or Web API v1, with advanced filtering capabilities and performance data collection.
