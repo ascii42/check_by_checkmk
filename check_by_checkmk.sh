@@ -1,6 +1,6 @@
 #!/bin/bash
 # check_by_checkmk.sh
-# Icinga plugin: holt Service-Status von Check_MK (REST v2 oder Web-API v1) mit Exclude-Patterns
+# Icinga plugin: gather Service-Status from Check_MK (REST v2/Web-API v1)
 # Dependencies: curl, jq
 #
 # Author:
